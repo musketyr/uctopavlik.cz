@@ -1,2 +1,0 @@
-# www.uctopavlik.cz
-Redirect
